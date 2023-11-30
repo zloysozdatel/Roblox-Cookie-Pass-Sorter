@@ -1,6 +1,6 @@
 # Roblox-Cookie-Pass-Sorter
 
-Just a simple cookie sorter, u need smth like this
+just a simple cookie sorter, he will sort ur cookies, donate at higher to lower and bonus pass sorter)
 
 Place ur cookies in cookies.txt and open sorter.exe he will sort ur Donate!
 
